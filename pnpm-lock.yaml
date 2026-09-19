@@ -175,13 +175,13 @@ importers:
       react-dom:
         specifier: ^19.3.0
         version: 19.3.0(react@19.3.0)
-      vite:
-        specifier: ^8.3.0
-        version: 8.3.0
     devDependencies:
       '@vitejs/plugin-react':
         specifier: ^6.1.1
         version: 6.1.1(vite@8.3.0)
+      vite:
+        specifier: ^8.3.0
+        version: 8.3.0
 
 packages:
 
