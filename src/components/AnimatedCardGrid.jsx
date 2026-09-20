@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { animate, stagger } from "animejs";
-// 容器组件
+
 // 用法：<AnimatedCardGrid className="dashboard-grid">… hero + 几张卡片 …</AnimatedCardGrid>
 // 同一份"卡片飞入"动画，写一次，到处用。
 // HomePage 和 TextLabPage 都把自己的 dashboard-grid 套在它里头，
